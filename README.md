@@ -2,7 +2,7 @@
 - 🌱 I am a student in 12th grade.
 - 💻 Currently working as a freelancer.
 - ⚡ I like to practice sports such as wrestling, brazilian jiu-jitsu and boxing.
-- <img src="https://cdn-icons-png.flaticon.com/512/484/484633.png" width="26px" style="padding-right:50px"> I can speak four languages - English(C1), Spanish(B2), Russian(B1) and Bulgarian(native). 
+- <img src="https://cdn-icons-png.flaticon.com/512/484/484633.png" width="26px" style="padding-right:50px">  I can speak four languages - English(C1), Spanish(B2), Russian(B1) and Bulgarian(native). 
 
 ---
 
