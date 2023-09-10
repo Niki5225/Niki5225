@@ -1,2 +1,2 @@
 # NikolayRadkov
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niki5225&layout=compact)
+(https://github-readme-stats.vercel.app/api?username=Niki5225&show_icons=true&hide_border=true)
