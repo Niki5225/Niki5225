@@ -2,7 +2,7 @@
 - 🌱 I am a student in 12th grade.
 - 💻 Currently working as a freelancer.
 - ⚡ I like to practice sports such as wrestling, brazilian jiu-jitsu and boxing.
-- [<img src="https://cdn-icons-png.flaticon.com/512/484/484633.png" width="26px" style="padding-right:50px">] I can speak four languages - English(C1), Spanish(B2), Russian(B1) and Bulgarian(native). 
+- <img src="https://cdn-icons-png.flaticon.com/512/484/484633.png" width="26px" style="padding-right:50px"> I can speak four languages - English(C1), Spanish(B2), Russian(B1) and Bulgarian(native). 
 
 ---
 
@@ -10,7 +10,6 @@
 
 [<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" width="26px" style="padding-right:50px">](https://www.instagram.com/radkovv__/)
 [<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/facebook/facebook-plain.svg" alt="facebook" width="26px">](https://www.facebook.com/nikolay.radkov.79/)
-<img src="https://cdn-icons-png.flaticon.com/512/484/484633.png" width="26px" style="padding-right:50px"> I can speak four languages - English(C1), Spanish(B2), Russian(B1) and Bulgarian(native). 
 
 ---
 
