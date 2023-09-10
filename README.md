@@ -38,6 +38,4 @@
 
 <summary>:zap: GitHub Stats</summary>
 
-<div>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niki5225&layout=compact)
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niki5225&layout=compact)
