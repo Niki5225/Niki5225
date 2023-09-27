@@ -2,7 +2,7 @@
 - 🌱 I am a student in 12th grade.
 - 💻 Currently working as a freelancer.
 - ⚡ I like to practice sports such as wrestling, brazilian jiu-jitsu and boxing.
-- <img src="https://cdn-icons-png.flaticon.com/512/484/484633.png" width="26px" style="padding-right:50px">  I can speak four languages - English(C1), Spanish(B2), Russian(B1) and Bulgarian(native). 
+- <img src="https://cdn-icons-png.flaticon.com/512/484/484633.png" width="26px" style="padding-right:50px">  I can speak four languages - English(C1), Spanish(B2), Russian and Bulgarian(native). 
 
 ---
 
@@ -29,9 +29,10 @@
 
 <img align="left" alt="PostgreSQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
 
+<img align="left" alt="Mocha" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" style="padding-right:10px;"/>
+
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="Mocha" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" style="padding-right:10px;"/>
 
 <br />
 <br />
