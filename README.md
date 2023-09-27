@@ -1,4 +1,4 @@
-# NikolayRadkov
+# Nikolay Radkov
 - 🌱 I am a student in 12th grade.
 - 💻 Currently working as a freelancer.
 - ⚡ I like to practice sports such as wrestling, brazilian jiu-jitsu and boxing.
