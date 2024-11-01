@@ -1,4 +1,5 @@
 # Nikolay Radkov
+- 💻 SoftServe intern as a Python/Django developer
 - 🔥 JavaScript and every technology based on it is my passion!
 - 🌱 Software engineering student in Plovdiv University.
 - ⚡ I like to practice sports such as wrestling, brazilian jiu-jitsu and boxing.
